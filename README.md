@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chester!
+# 👋 Hi, I'm Zachary!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zchester-blue?logo=linkedin)](https://www.linkedin.com/in/zchester/)
 
