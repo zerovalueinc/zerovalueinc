@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zachary!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zchester-blue?logo=linkedin)](https://www.linkedin.com/in/zchester/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zchester-blue?logo=linkedin)](https://x.com/BuildWithZach)
 
 ---
 
@@ -37,6 +37,7 @@ Switching from tech sales to development wasn’t just a career move—it was an
 ## 🤝 Let’s Connect!
 
 - LinkedIn: [zchester](https://www.linkedin.com/in/zchester/)
+- Twitter: [BuildWithZach](https://x.com/BuildWithZach)
 - Open to feedback, collabs, and new friends in tech!
 
 ---
