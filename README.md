@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zachary!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zchester-blue?logo=linkedin)](https://x.com/BuildWithZach)
+[![X](https://img.shields.io/badge/LinkedIn-zchester-blue?logo=linkedin)](https://x.com/BuildWithZach)
 
 ---
 
